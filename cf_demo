@@ -62,7 +62,7 @@
                     }
                 },
                 "Code": {
-                    "S3Bucket": "REPLACEME",
+                    "S3Bucket": "demo-bucket555",
                     "S3Key": "canary.zip"
                 },
                 "Role": {
